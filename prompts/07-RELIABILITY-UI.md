@@ -1,0 +1,1 @@
+Implement Phase 7 only. Add clear UI for backend connectivity, permission, SIM availability/selection, queued jobs, last sync, errors and SUBMISSION_UNKNOWN. Provide safe manual reconciliation. Do not expose message bodies or OTPs in logs/diagnostics. Test state rendering and recovery paths.

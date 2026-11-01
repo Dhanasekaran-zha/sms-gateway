@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131611523660",
+    "project_id": "sms-gateway-597c5",
+    "storage_bucket": "sms-gateway-597c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131611523660:android:26a548c6c4dd18beffd2e9",
+        "android_client_info": {
+          "package_name": "com.example.smsgateway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13PCB5VDDjscOOdtuqrByAwHet3lCOEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

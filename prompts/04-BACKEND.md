@@ -1,0 +1,1 @@
+Implement Phase 4 only after I provide the actual backend API contract. If the contract is not present, stop and ask for it; do not invent endpoints or JSON fields. Implement typed Retrofit DTOs, authenticated HTTPS calls, timeouts, error mapping and idempotent acknowledgement. Keep secrets out of source control and logs. Add tests using mocked responses.

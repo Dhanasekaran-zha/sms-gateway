@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- SMS envelope icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38h32v24H38z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M38,38l16,12 16,-12" />
+</vector>

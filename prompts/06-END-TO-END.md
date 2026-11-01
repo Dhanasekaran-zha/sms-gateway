@@ -1,0 +1,1 @@
+Implement Phase 6 only. Create a controlled end-to-end test flow using backend test jobs and an explicit test-recipient allowlist. Verify duplicate FCM messages, app process death, offline recovery, backend timeouts and status reconciliation. Prevent accidental production messages. Run tests and update progress.

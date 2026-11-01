@@ -1,0 +1,1 @@
+Prepare a concise agent handoff. Read current code and docs, then update `docs/PROGRESS.md`, `docs/DECISIONS.md` and `docs/HANDOFF.md` with: current phase, completed work, exact files changed, build/test commands and results, known bugs, pending decisions, next single task and any user input required. Do not start a new phase. Do not claim tests passed unless you ran them.

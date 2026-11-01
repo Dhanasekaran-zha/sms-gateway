@@ -1,0 +1,1 @@
+Implement Phase 2 only. Add the local SMS job model, explicit status enum/state transition rules, Room entity/DAO/database and repository. Add tests for valid and invalid transitions, duplicate job IDs and persistence. Do not send SMS or connect Firebase/backend yet. Build, test and update progress/decisions.
